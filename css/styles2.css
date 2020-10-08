@@ -1,3 +1,24 @@
+body {
+    background: orange;
+    color: #222;
+}
 .modal-container {
     display: none;
+}
+
+.card {
+    background: rgba(245, 245, 245, 0.8);
+    border-radius: 0.6em;
+    border: 3px solid #fff;
+}
+
+.card:hover {
+    background: rgba(255, 255, 255, 1);
+    border: 3px solid #acacac;
+}
+
+.modal {
+    border-radius: 0.6em;
+    border: 3px solid #fff;
+    background: #e2e2e2;
 }
