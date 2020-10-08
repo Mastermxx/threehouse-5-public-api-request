@@ -1,5 +1,5 @@
 # threehouse-5-public-api-request
-Public API Request : https://mastermxx.github.io/treehouse-4-phrase-hunter/
+Public API Request : https://mastermxx.github.io/threehouse-5-public-api-request/
 
 project 5 - Public API Request
 
