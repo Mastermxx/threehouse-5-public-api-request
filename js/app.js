@@ -1,6 +1,3 @@
-// ------------------------------------------
-//  FETCH FUNCTIONS
-// ------------------------------------------
 function fetchData(url) {
     return fetch(url)
         .then(checkStatus)
