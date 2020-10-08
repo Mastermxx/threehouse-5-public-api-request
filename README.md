@@ -8,16 +8,16 @@ Script by Mark Reijgwart
  ******************************************
  
  ## Additional Styling
- ###General
+General
 - Changed the background of the body to orange.
 
-###Card
+Card
 - Changed the background color to "rgba(245, 245, 245, 0.8)".
 - Changed the border-radius to 0.6em.
 - Changed the border to border: 3px solid #fff.
 - Changed the hover state background to "rgba(255, 255, 255, 1)" & the border color to "#acacac".
 
-###Modal
+Modal
 - Changed the background color to "#e2e2e2".
 - Changed the border-radius to 0.6em.
 - Changed the border to border: 3px solid #fff.
